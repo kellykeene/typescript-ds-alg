@@ -4,7 +4,8 @@
     "description": "Various data structures and algorithms in Typescript",
     "main": "index.js",
     "scripts": {
-        "test": "jest Bubble"
+        "test": "jest Bubble",
+        "build": "tsc"
     },
     "keywords": [],
     "author": "",
