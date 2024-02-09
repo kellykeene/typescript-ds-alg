@@ -4,7 +4,7 @@
     "description": "Various data structures and algorithms in Typescript",
     "main": "index.js",
     "scripts": {
-        "test": "jest BubbleSort SelectionSort",
+        "test": "jest BubbleSort SelectionSort InsertionSort ReverseInt CharOccurrenceMap",
         "build": "tsc"
     },
     "keywords": [],
