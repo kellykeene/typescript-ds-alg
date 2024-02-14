@@ -4,7 +4,7 @@
 //      [4,3,7]              [9,1,2,8]
 //    [4]     [3,7]        [9,1]    [2,8]
 //  [4] [3]  [7] [9]      [9] [1]  [2] [8]
-export default class MergeSort {
+class MergeSort {
   /**
    * @param {number[]} arr
    * @returns {number[]}
